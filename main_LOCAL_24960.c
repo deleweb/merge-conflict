@@ -12,5 +12,4 @@ Initial Security()
 security patch added()
 //security patch added
 
-feature2() {
-//f1 added
+}
